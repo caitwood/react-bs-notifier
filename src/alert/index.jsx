@@ -23,7 +23,7 @@ const Alert = ({
 			title={dismissTitle}
 			onClick={onDismiss}
 		>
-			×
+			x
 		</button>
 	) : null;
 
